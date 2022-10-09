@@ -1,4 +1,4 @@
-# Trillo
+# Natours
 Built with advanced css and sass course
 
 ## Install the dependencies
